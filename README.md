@@ -1,4 +1,5 @@
 ### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hi%20i'm%0AKirill%20Goltser&fontSize=70)
 
 <!--
 **KirHolzer/Kirholzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
