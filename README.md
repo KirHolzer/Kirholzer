@@ -7,7 +7,7 @@
       <td>
           <img src="https://github-readme-stats.vercel.app/api?username=KirHolzer&count_private=true&show_icons=true" />
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirholzer&layout=compact" width = '350' />
-          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KirHolzer"  />        
+          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KirHolzer&layout=compact"  />        
       </td>
   </tr>
  </table>
